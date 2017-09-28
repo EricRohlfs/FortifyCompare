@@ -17,7 +17,7 @@ On Windows:
   `pip install fortify_compare`
 
 - put the two fortify files in a folder.
-- download the runner.py file into the same folder
+- download the runner.py file from this site into the same folder as the files
 - run the following command:
 
   `python runner.py file_name_old file_name_new`

@@ -24,5 +24,5 @@ On Windows:
 
 On Linux:
 
-If you are using linux, I'm sure you already know a better way of doing this.
+If you are using linux, I'm confident you already know a better way of doing this.
 
